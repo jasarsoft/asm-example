@@ -1,3 +1,6 @@
+;Zadatak 1: Napisati korisnicki program, koji korektno vraca upravljanje
+;           operativnom sistemu i ne salje nikakvu poruku korisniku
+
 Prog01  Segment ;definicija segmenta
         assume CS:Prog01, DS:Prog01 ;pocetak CS i DS segmenta
 
